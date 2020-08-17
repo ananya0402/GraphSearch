@@ -1,4 +1,4 @@
-# GraphSearch
+# GraphSearch - Artificial Intelligence
 The Problem: 
 
 Consider a grid of size N x N that represents a topographic map. Each tile describes the characteristics of its terrain, which could be of two types: normal or mountainous.  The robot must navigate from a starting position (xs,ys) to a goal position (xg,yg) using a learned algorithms (there can only be one start and one goal).  
