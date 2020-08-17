@@ -20,4 +20,7 @@ Input:
 
 ![tile](https://user-images.githubusercontent.com/69590474/90357879-b768be80-e097-11ea-94f2-e99344fac421.jpg)
 
+Output:
+
+The program should produces a sequence of moves that the robot should perform to get from the start node to the goal, and the accumulated cost and its position after each move.
 
